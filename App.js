@@ -74,7 +74,7 @@ export default function App() {
           onPress={generateImage}
           disabled={loading}
         >
-          <Text style={styles.text}>Generate Image</Text>
+          <Text style={styles.text}>Generate new Image</Text>
         </TouchableOpacity>
       </View>
     </SafeAreaView>
